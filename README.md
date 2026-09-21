@@ -2,7 +2,7 @@
 
 A from-scratch recreation of the Crossnumbers puzzle game, built in Unity 2022 LTS and compiled to WebGL, with a new Monthly Pass reward feature layered on top. Built as an AI-assisted development case study; the engineering log and full process report are maintained alongside this project and referenced throughout this README.
 
-**▶ [Play it here](#)** — compiled WebGL build hosted directly from this repo, runs in-browser with no install required.
+**▶ [Play it here](https://kayrasenerr.github.io/Crossnumbers/)** — compiled WebGL build hosted directly from this repo, runs in-browser with no install required.
 
 ## What this is
 
